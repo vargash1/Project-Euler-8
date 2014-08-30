@@ -14,10 +14,12 @@ The large number is read in from a text file and written to a **vector** for pro
 
 ### ***Want to Download?***
 
-""" bash
+
+
+``` bash
 
 	git clone git@github.com:vargash1/Project-Euler-8.git
 
-"""
+```
 
 
