@@ -1,8 +1,6 @@
 Project-Euler-8
 ===============
 
-
-
 [Link to the Problem](https://projecteuler.net/problem=8)
 
 [Link to Project Euler](https://projecteuler.net)
@@ -14,9 +12,9 @@ The large number is read in from a text file and written to a **vector** for pro
 >Alhough an easier alternative could be hard coding the large number into the vector.
 >I just liked how cleaner the code looked without the large number.
 
-###***Want to Download?***
+### ***Want to Download?***
 
-"""bash
+""" bash
 
 	git clone git@github.com:vargash1/Project-Euler-8.git
 
